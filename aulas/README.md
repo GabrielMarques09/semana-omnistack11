@@ -1,4 +1,12 @@
-#Projeto ONG
+# Projeto Be the Hero
 
-#Projeto apresentado na Semana Omnistack 11 da Rocketseat
-#Tem como objetivo de conectar pessoas que efetuem doações para as ONGs
+## Semana Omnistack 11 da Rocketseat
+Projeto realizado com o intuito de conectar pessoas que efetuem doações para as ONG.
+
+
+### Tecnologias utilizadas
+- NodeJS
+- ReactJS
+- React Native
+- Sqlite
+- Expo
